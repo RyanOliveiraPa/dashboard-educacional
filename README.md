@@ -79,13 +79,13 @@ Nota, Presenças, Faltas, Período
 ## 🖼️ Demonstração
 
 ### Página 1  
-![Dashboard Educacional Página 1](./Screenshot_1.png)
+![Dashboard Educacional Página 1](./Pagina1.png)
 
 ### Página 2  
-![Dashboard Educacional Página 2](./Screenshot_2.png)
+![Dashboard Educacional Página 2](./Pagina2.png)
 
 ### Página 3  
-![Dashboard Educacional Página 3](./Screenshot_3.png)
+![Dashboard Educacional Página 3](./Pagina3.png)
 
 ---
 
